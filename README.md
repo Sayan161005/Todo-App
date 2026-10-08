@@ -59,7 +59,7 @@ Then open the URL shown in the terminal (usually `http://localhost:5173`).
 ## File Structure
 
 ```
-10todocontextlocal/
+Todo-App/
 ├── node_modules/            # Installed dependencies (git-ignored)
 ├── public/                  # Static assets
 ├── src/
